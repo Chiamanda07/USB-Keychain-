@@ -1,7 +1,6 @@
 # USB Keychain
 
-You might be wondering why a USB port would be added to a keychain. This project was inspired by the This project was inspired by the  
-[Sage Cadence Light-Up Keychain project](https://sites.google.com/view/sagecadence/home/light-up-keychain).
+You might be wondering why a USB port would be added to a keychain. This project was inspired by the This project was inspired by [Sage Cadence Light-Up Keychain project](https://sites.google.com/view/sagecadence/home/light-up-keychain).
 
 
 The keychain contains an LED that lights up when plugged into a USB port. Through this project, I learned more about different parts of KiCad. In order to create the USB connection, I designed a custom USB edge-connector footprint, since the PCB itself serves as the USB plug.
