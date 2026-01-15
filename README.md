@@ -23,7 +23,7 @@ You can access the schematic file here:
 ---
 
 ## PCB Layout
-![PCB](images/pcb.png)
+![PCB](pics/pcb)
 
 You can access the PCB file here:  
 *(link to file)*
