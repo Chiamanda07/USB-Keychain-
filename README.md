@@ -15,17 +15,10 @@ The keychain contains an LED that lights up when plugged into a USB port. Throug
 ---
 
 ## Schematic
-![Schematic](images/schematic.png)
-
-You can access the schematic file here:  
-*(link to file)*
+![Schematic](pics/schematic)
 
 ---
 
 ## PCB Layout
 ![PCB](pics/pcb)
 
-You can access the PCB file here:  
-*(link to file)*
-
-To make soldering easier, a thermal via was added near the LED ground pad.
