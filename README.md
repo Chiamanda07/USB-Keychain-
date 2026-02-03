@@ -1,16 +1,14 @@
-# USB Keychain
+# Flower Keychain
 
-You might be wondering why a USB port would be added to a keychain.This project was inspired by [Sage Cadence Light-Up Keychain project](https://sites.google.com/view/sagecadence/home/light-up-keychain).  
-Modifications made include changing the board layout and addig thermal vias for easier soldering.
-
-
-The keychain contains an LED that lights up when plugged into a USB port. Through this project, I learned more about different parts of KiCad. In order to create the USB connection, I designed a custom USB edge-connector footprint, since the PCB itself serves as the USB plug.
+This is a portable flower keychain PCB with leds, a push button and a coin cell btattery. This project was inspired by [Sage Cadence Light-Up Keychain project](https://sites.google.com/view/sagecadence/home/light-up-keychain).
 
 ## Components Used
-- LED  
-- Resistor  
-- USB edge connector (custom footprint)  
+- 4 LEDs  
+- 4 Resistor  
+- Push button  
 - Mounting hole (for keychain attachment)
+- Coin cell
+- Coin cell holder
 
 ---
 
