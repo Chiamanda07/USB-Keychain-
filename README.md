@@ -13,10 +13,10 @@ This is a portable flower keychain PCB with leds, a push button and a coin cell 
 ---
 
 ## Schematic
-![Schematic](pics/schematic)
+![Schematic](pics/schematics)
 
 ---
 
 ## PCB Layout
-![PCB](pics/pcb)
+![PCB](pics/pcbs)
 
